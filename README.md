@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @osswala
 - 👀 I’m interested in Java, System Design, Algorithm, Spring and Cloud-native development
 - 🌱 I’m currently learning databases
-- 💞️ I’m looking to collaborate on database concepts
+- 💞️ I’m looking to collaborate on database concepts & message brokers
 - 📫 How to reach me email me at osswala@gmail.com
 
 <!---
